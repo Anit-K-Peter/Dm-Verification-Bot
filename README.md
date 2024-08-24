@@ -9,6 +9,3 @@
 
 Contributions are welcome! If you'd like to contribute, fork the repository and create a pull request with your changes.
 
-# 🚀 Stay tuned for the V2 update
-
-##### Powered by GOD DC DEVELOPER COMMUNITY
