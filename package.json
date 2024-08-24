@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "config.json": "^0.0.4",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^14.15.3",
+    "nodemailer": "^6.9.13"
+  }
+}
